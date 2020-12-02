@@ -58,7 +58,7 @@ int main()
 {
     vector<list<pair<int, int>>> V;
     pair<int, int> t0(0, 1);
-    pair<int, int> t1(1, 1);
+    pair<int, int> t1(1, 2);
     list<pair<int, int>> T0 = { t0 };
     list<pair<int, int>> T1 = { t1 };
     V.push_back(T0);
